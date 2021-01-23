@@ -42,7 +42,6 @@ function Search() {
         API.saveSong(song)
             .then(function(data) {
                 console.log(data)
-                window.location.reload();
             })
             .catch(err => console.log(err));
     };

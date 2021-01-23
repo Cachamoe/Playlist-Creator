@@ -38,6 +38,7 @@ class CreateAccount extends Component {
       password: this.state.password,
     }).then((res) => {
       this.setState({ signedUp: true })
+      window.location.href= "/login";
     }).catch((err) => {
       console.log(err)
     });
