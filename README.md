@@ -16,13 +16,17 @@ Here is a link to the deployed webpage: [https://vast-gorge-60360.herokuapp.com/
 ## Programs
 Javascript, React, CSS, JSX, Node.js, Express.js, MongoDB, Mongoose, JSON
 
+## License
+![Badge](https://img.shields.io/badge/license-MIT-<green>) 
+
 ## Author(s)
 * [Andrew Trabucco](https://github.com/andrewtrabucco)
 * [Jonathan Stillman](https://github.com/JonathanStillman)
 * [Caleb Chaney](https://github.com/Cachamoe)
 * [Heather Hern](http://github.com/heatherhern)
 
-## License
-![Badge](https://img.shields.io/badge/license-MIT-<green>) 
+
+
+
 
 
