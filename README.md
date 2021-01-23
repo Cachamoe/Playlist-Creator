@@ -14,7 +14,7 @@ Here is a link to the deployed webpage: [https://vast-gorge-60360.herokuapp.com/
 4) Remove songs from your playlist
 
 ## Programs
-Javascript, React, CSS, JSX, Node.js, Express.js, MongoDB, Mongoose, JSON
+Javascript, React, CSS, Node.js, Express.js, MongoDB, Mongoose, JSON
 
 ## License
 ![Badge](https://img.shields.io/badge/license-MIT-<green>) 
