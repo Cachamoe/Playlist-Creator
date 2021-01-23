@@ -1,5 +1,5 @@
-## VUMC-Project-3
-![]()
+## Playlist Creator
+![](https://github.com/Cachamoe/Playlist-Creator/blob/main/client/public/Screen%20Shot%202021-01-23%20at%2010.38.49%20AM.png)
 
 ## Overview
 This application allows users to search for and save songs into a playlist! 
