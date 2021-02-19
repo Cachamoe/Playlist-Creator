@@ -13,7 +13,7 @@ Here is a link to the deployed webpage: [https://vast-gorge-60360.herokuapp.com/
 3) Save songs to your playlist
 4) Remove songs from your playlist
 
-## Programs
+## Technologies
 Javascript, React, CSS, Node.js, Express.js, MongoDB, Mongoose, Passport, JSON
 
 ## License
